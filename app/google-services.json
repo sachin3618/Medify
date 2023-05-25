@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1032532076569",
+    "firebase_url": "https://medify-7c192-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "medify-7c192",
+    "storage_bucket": "medify-7c192.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032532076569:android:c073b65d3f756d3e62e288",
+        "android_client_info": {
+          "package_name": "com.geekymusketeers.medify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032532076569-d533018d70jqvn2t9jprn6lcffuqbv92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMKpamc_zaIxYhT4j4fbiuYbKOwYLv7lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032532076569-d533018d70jqvn2t9jprn6lcffuqbv92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
